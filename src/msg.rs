@@ -1,8 +1,8 @@
 use cosmwasm_std::Uint64;
 use cosmwasm_schema::cw_serde;
 
-#[derive(Serialize, Deserialize, PartialEq, Debug, Clone, JsonSchema)]
-#[serde(rename_all = "snake_case")]
+//#[derive(Serialize, Deserialize, PartialEq, Debug, Clone, JsonSchema)]
+//#[serde(rename_all = "snake_case")]
 //Equivalent to cw_serde
 
 
